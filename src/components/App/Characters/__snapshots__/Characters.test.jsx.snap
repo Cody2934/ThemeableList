@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Character component renders Character 1`] = `
+<Fragment>
+  <image
+    src="source of image"
+  />
+  <h1>
+    Cody
+  </h1>
+  <p>
+    Human
+  </p>
+  <p>
+    Dead on the inside but most people do not know so it is okay
+  </p>
+</Fragment>
+`;
